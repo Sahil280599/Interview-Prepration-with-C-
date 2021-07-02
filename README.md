@@ -38,5 +38,8 @@ To run Program in visual studio
 ```bash
   g++ .\yourfilename.cpp
   g++ .\a.exe
+  ```
+  
+ That's It
 
-  that's it 
+ 
