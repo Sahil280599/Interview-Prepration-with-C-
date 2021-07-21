@@ -27,15 +27,3 @@ You Can Contribute Towards Any Topics Given Below and Add Yourself as a Contribu
 - Threads 
 - Memory Management
 
-
-  
-## All codes are written in C++ in Visual studio
-
-To run Program in visual studio 
-- write the program 
-- save it 
-- write the command in terminal
-```bash
-  g++ .\yourfilename.cpp
-  g++ .\a.exe
-
