@@ -4,26 +4,12 @@ You Can Contribute Towards Any Topics Given Below and Add Yourself as a Contribu
 
 
 
-## Topics that we will cover in this
+## Books for Prepare Data Structures
+1- Introduction to Algorithms by Thomas H. Cormen  
+2- The Algorithm Design Manual by Steve S. Skiena  
+3- Grokking Algorithms by Aditya Bhargava  
+4-Algorithms in a nutshell: A Practical Guide by George T.Heineman.  
 
-- Pattern Designing 
-- Time and Space Complexity 
-- Arrays and Strings 
-- Hashmap 
-- Pointers 
-- Dynamic Allocation 
-- Recursion 
-- OOPs 
-- Backtracing 
-- Linked List 
-- Stack and Queue
-- Binary search Trees 
-- Priority Queues 
-- Bit Manipulation 
-- DBMS (SQL)
-- System Design 
-- Introduction to OS
-- Deadlock 
-- Threads 
-- Memory Management
+
+
 
